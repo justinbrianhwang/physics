@@ -1,7 +1,7 @@
 # Physics
 
-This repository contains projects and study materials related to physics, including:
-- Quantum Mechanics
-- Electromagnetism
-- Classical Mechanics
-- Thermodynamics
+This directory contains study materials and projects related to physics.
+
+## Directories
+- **Quantum_Mechanics/**: Contains projects and materials related to quantum mechanics.
+- **Electromagnetism/**: Contains projects and materials related to electromagnetism.
